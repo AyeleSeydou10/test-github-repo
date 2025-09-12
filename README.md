@@ -12,6 +12,10 @@ I am currently reading The Prison Healer which I'm really enjoying right now, an
 - The Gilded Cage
 - The Blood Traitor  
 
+<<<<<<< HEAD
 My goal is to read 111 books in 2025 and I am at around 75 so far.
 
 I also love going to the cinema!
+=======
+My goal is to read 111 books in 2025 and I am at around 75 so far :zany_face:
+>>>>>>> 4d62f0f3484c8c32e61334ef1ec178b0c60449cf
